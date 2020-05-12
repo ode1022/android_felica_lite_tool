@@ -11,7 +11,7 @@ AndroidスマホのみでFelica Lite-Sタグにカード鍵の発行ができま
 
 
 詳しい詳細は下記記事を参考
-[xxxx](https://xxxx)
+[Suica(IDm)で認証するのは危険なのでFelica Lite-Sの内部認証を使う](https://qiita.com/odetarou/items/bcd65dbfd1f68735ac30)
 
 <img src="https://raw.githubusercontent.com/ode1022/android_felica_lite_tool/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 <img src="https://raw.githubusercontent.com/ode1022/android_felica_lite_tool/master/docs/AppScreenShot.jpg">
