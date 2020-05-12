@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Felica Lite-Sツール</string>
+    <string name="title_activity_settings">設定</string>
+
+    <!-- Preference Titles -->
+    <string name="general_header">一般</string>
+
+    <!-- General Preferences -->
+    <string name="master_key_title">マスターキー</string>
+    <string name="master_key_summary">16進数で24byte表記 コロン区切り(例 0f:d4..) </string>
+    <string name="authModeText">認証モード</string>
+    <string name="issuanceModeText">カード鍵発行モード</string>
+    <string name="authModeButtonText">認証モードへ</string>
+    <string name="issuanceModeButtonText">カード鍵発行モードへ</string>
+
+
+</resources>
