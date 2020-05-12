@@ -7,6 +7,9 @@ Felica Lite-S用のツールアプリです(Android用)
 
 AndroidスマホのみでFelica Lite-Sタグにカード鍵の発行ができます。
 
+[アプリAPKダウンロード](https://github.com/ode1022/android_felica_lite_tool/releases/download/1.0/android_felica_lite_tool.apk)
+
+
 詳しい詳細は下記記事を参考
 [xxxx](https://xxxx)
 
